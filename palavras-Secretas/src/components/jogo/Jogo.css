@@ -1,0 +1,57 @@
+.jogo h1 {
+  font-size: 40px;
+}
+
+.pontos span {
+  font-weight: bold;
+}
+
+.dica span{
+  color: rgb(255, 251, 0);
+  text-transform: uppercase;
+}
+
+.containerPalavra {
+  margin: 25px;
+  padding: 25px;
+  border: 20px solid rgb(255, 251, 0);
+  display: flex;
+}
+
+.letra, .quadradoBranco {
+  font-size: 70px;
+  line-height: 1.5;
+  border: 3px solid black;
+  height: 100px;
+  width: 100px;
+  text-transform: uppercase;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+
+.letraContainer p {
+  margin-bottom: 19px;
+}
+
+.letraContainer form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.letraContainer input{
+  height: 50px;
+  width: 50px;
+  font-size: 30px;
+  text-align: center;
+  margin-right: 20px;
+  border: 3px solid #1646a0;;
+  border-radius: 10px;
+}
+
+
+.letraContainer input:focus {
+  box-shadow: 0 0 0 0;
+  outline: 0;
+}
