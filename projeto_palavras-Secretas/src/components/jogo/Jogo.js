@@ -2,8 +2,7 @@ import { useState, useRef} from "react"
 import "./Jogo.css"
 
 export const Jogo = ({
-  verificarLetra, 
-  palavraEscolhida, 
+  verificarLetra,  
   categoriaEscolhida, 
   letras, 
   letrasAdivinhadas, 
@@ -17,8 +16,8 @@ export const Jogo = ({
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    verificarLetra(letra)
 
+    verificarLetra(letra)
     setLetra("")
     inputLetraRef.current.focus()
   }
