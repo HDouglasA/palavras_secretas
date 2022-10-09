@@ -11,7 +11,7 @@ Aplicação com intuito de criar uma jogo de Palavras Secretas.
 - O objetivo é descobrir cada palavra secreta usando o menor número possível de tentativas;
 - Você tem até 5 tentativas para descobrir cada uma das palavras;
 - Será direcionado a uma nova palavra, assim que descobrir qual a palavra atual;
-- Letras usadas que não estiverem presentes na palavra secreta, serão removidas automaticamente;
+- Letras usadas, que não estiverem presentes na palavra secreta, serão removidas automaticamente;
 - O jogo termina quando você descobrir todas as palavras secretas ou quando se esgotarem todas as tentativas.
 
 ### Link: https://exuberant-process.surge.sh/
