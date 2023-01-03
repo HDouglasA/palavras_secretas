@@ -5,8 +5,8 @@
 ### Descrição: 
 
 Desenvolvido em React.
-
-Aplicação com intuito de criar uma jogo de Palavras Secretas.
+ 
+Jogo Palavras Secretas.
 
 - O objetivo é descobrir cada palavra secreta usando o menor número possível de tentativas;
 - Você tem até 5 tentativas para descobrir cada uma das palavras;
